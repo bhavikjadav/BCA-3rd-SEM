@@ -1,0 +1,6 @@
+item_id,item_name,month,quantity_sold,price
+1,Item A,January,150,10.99
+2,Item B,February,200,15.50
+3,Item C,March,120,7.75
+4,Item D,April,90,22.00
+5,Item E,May,60,5.99
